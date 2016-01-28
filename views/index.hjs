@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>{{ name }}</h1>
-    <p>Welcome {{ name }} How's the weather in {{ location }}?... You're good at {{ specialty }}. I hear you like {{ fav }}</p>
+    <p>Welcome {{ name }} How's the weather in {{ location }}?... You're good at {{ specialty }}. I hear you like {{ fav </p>
   </body>
 </html>
